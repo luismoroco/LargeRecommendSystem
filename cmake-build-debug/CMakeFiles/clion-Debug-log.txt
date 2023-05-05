@@ -1,4 +1,0 @@
-/home/lmr/Documentos/IDE/clion-2023.1.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/lmr/Documentos/IDE/clion-2023.1.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/lmr/Documentos/5to/projects/c/LargeRecommendSys -B /home/lmr/Documentos/5to/projects/c/LargeRecommendSys/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/lmr/Documentos/5to/projects/c/LargeRecommendSys/cmake-build-debug

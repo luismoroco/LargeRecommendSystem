@@ -1,3 +1,0 @@
-/home/lmr/Documentos/5to/projects/c/LargeRecommendSys/cmake-build-debug/CMakeFiles/LargeRecommendSys.dir
-/home/lmr/Documentos/5to/projects/c/LargeRecommendSys/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lmr/Documentos/5to/projects/c/LargeRecommendSys/cmake-build-debug/CMakeFiles/rebuild_cache.dir
